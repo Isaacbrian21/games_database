@@ -305,6 +305,24 @@
       "plataforma": "PS4",
       "val3": 5,
       "id": 61
+    },
+    {
+      "url": "https://image.api.playstation.com/cdn/UP0006/CUSA02429_00/OiogYov24Z1qOACNXqDgXG6HDilA0amk.png?w=440&thumb=false",
+      "name": "Battlefield™ 1",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0612/vskkk95e4D1AsM9rrHHecdoU.png?w=5000&thumb=false",
+      "descricao": "Viva o alvorecer de uma guerra total, somente no Battlefield™ 1.   Lute em meio a batalhas épicas desde combates urbanos em uma cidade francesa sob cerco até os fortes pesadamente defendidos nos Alpes italianos, ou combates frenéticos nos desertos árabes. Descubra um mundo em guerra em uma campanha cheia de aventura, ou junte-se a partidas multiplayer épicas com até 64 jogadores e adapte suas táticas à destruição e ao clima dinâmico ao seu redor. Lute como parte da infantaria. Lidere investidas a cavalo ou controle veículos impressionantes em terra, céu e mar, de tanques a bimotores e os enormes Veículos Colossais, alguns dos veículos na história de Battlefield.",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 62
+    },
+    {
+      "id": 63,
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/oXPtJkwSeNlYon2MqTX9K4sQ.png?w=440&thumb=false",
+      "name": "The Sims™ 4",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/AvBfRzsffW4V0ZMmclPSBrfg.png?w=5000&thumb=false",
+      "descricao": "Solte a imaginação e crie um mundo único de Sims para se expressar! Faça o download de graça e personalize cada detalhe, desde Sims até suas casas e muito mais.  Crie Sims únicos – Você tem uma variedade de Sims para personalizar, cada qual com aparências distintas, personalidades dinâmicas e aspirações inspiradoras.  Construa a Casa Perfeita – Projete e construa facilmente as casas perfeitas para seus Sims usando o Modo Construção.  Explore mundos vibrantes – Viaje entre locais, descubra vizinhanças incríveis e diferentes e encontre locais cativantes.  Jogue com a Vida – Controle os momentos divertidos e envolventes das vidas de seus Sims, de seus relacionamentos às suas carreiras.  Adicione novas experiências – Use a Galeria para encontrar inspiração em uma comunidade de jogadores e jogadoras iguais a você, onde é possível adicionar conteúdo ao jogo e compartilhar suas próprias criações.  Curta mais com EA Play* - Assinantes EA Play têm acesso ao The Sims™ 4 Pacote de Expansão Ao Trabalho.  *Existem condições, limitações e exclusões. Consulte tos.ea.com/legalapp/eaplay/US/br/PC/ para saber mais.",
+      "plataforma": "PS4",
+      "val3": 3
     }
   ],
   "favoritos": [
@@ -361,6 +379,24 @@
       "plataforma": "PS4",
       "val3": 4,
       "id": 59
+    },
+    {
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202111/2000/nPfqr4Qn0WiCLWV7rvxV3z0O.png?w=440&thumb=false",
+      "name": "Call of Duty BLack Ops Cold War",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png?w=1920&thumb=false,%20https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png?w=1920&thumb=false%201.5x,%20https://image.api.playstation.com/vulcan/ap/rnd/202011/1101/kG7wVsECFlr1lWXHbO7LZ0Nt.png?w=5000&thumb=false",
+      "descricao": "Call of Duty: Black Ops Cold War é um jogo de tiro em primeira pessoa desenvolvido pela Treyarch e Raven Software e publicado pela Activision.[3][4] É o quinto jogo da série Black Ops, e o décimo sétimo jogo da série Call of Duty ao todo. Serve como uma sequência direta de Call of Duty: Black Ops (2010) e uma prequela direta de Call of Duty: Black Ops II (2012). Call of Duty: Black Ops Cold War foi lançado em 13 de novembro de 2020.\n\nA revelação mundial da campanha foi em 26 de agosto de 2020, enquanto o do multiplayer chegou em 9 de setembro.[5]\n\nBlack Ops Cold War se passa nos anos 1980 da Guerra Fria. A campanha segue Russell Adler, um operador da CIA, em perseguição com um suposto espião soviético, Perseus, cujo objetivo declarado é subverter os Estados Unidos e inclinar o equilíbrio de poder em direção à União Soviética.",
+      "plataforma": "PS5",
+      "val3": 5,
+      "id": 46
+    },
+    {
+      "url": "https://image.api.playstation.com/cdn/UP0006/CUSA02429_00/OiogYov24Z1qOACNXqDgXG6HDilA0amk.png?w=440&thumb=false",
+      "name": "Battlefield™ 1",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0612/vskkk95e4D1AsM9rrHHecdoU.png?w=5000&thumb=false",
+      "descricao": "Viva o alvorecer de uma guerra total, somente no Battlefield™ 1.   Lute em meio a batalhas épicas desde combates urbanos em uma cidade francesa sob cerco até os fortes pesadamente defendidos nos Alpes italianos, ou combates frenéticos nos desertos árabes. Descubra um mundo em guerra em uma campanha cheia de aventura, ou junte-se a partidas multiplayer épicas com até 64 jogadores e adapte suas táticas à destruição e ao clima dinâmico ao seu redor. Lute como parte da infantaria. Lidere investidas a cavalo ou controle veículos impressionantes em terra, céu e mar, de tanques a bimotores e os enormes Veículos Colossais, alguns dos veículos na história de Battlefield.",
+      "plataforma": "PS4",
+      "val3": 5,
+      "id": 62
     }
   ]
 }
